@@ -1,0 +1,10 @@
+Package: com.kindadev.activator.assetsunpacker
+Name: AssetsUnpacker
+Depends: libactivator (>= 1.8.3), mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Unpack Assets.car by Activator action.
+Depiction: http://kindadev.com/cydia/assetsunpacker.html
+Maintainer: kinda
+Author: kinda
+Section: Addons
