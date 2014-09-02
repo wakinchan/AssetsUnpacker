@@ -8,6 +8,7 @@ TWEAK_NAME = AssetsUnpacker
 AssetsUnpacker_FILES = Tweak.xm
 AssetsUnpacker_FRAMEWORKS = UIKit
 AssetsUnpacker_LDFLAGS = -lactivator
+AssetsUnpacker_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
