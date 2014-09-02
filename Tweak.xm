@@ -9,9 +9,10 @@
 %config(generator=internal)
 
 #import <substrate.h>
-#import <UIKit/UIKit2.h>
 #import <libactivator/libactivator.h>
 #import "Headers.h"
+
+UIKIT_EXTERN UIApplication* UIApp;
 
 #define DIRECTORY @"/var/mobile/Assets/"
 
